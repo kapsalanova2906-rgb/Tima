@@ -1,0 +1,5 @@
+Hello, World!
+Python is awesome
+File handling
+W3Schools
+Practice 06
