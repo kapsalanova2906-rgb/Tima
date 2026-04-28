@@ -1,7 +1,8 @@
+# Конфигурация подключения к базе данных
 DB_CONFIG = {
-    "host": "localhost",
-    "database": "phonebook",
-    "user": "postgres",
-    "password": "1234",
-    "port": 5432
+    "host": "localhost",   # Адрес сервера базы данных
+    "database": "phonebook", # Имя базы данных
+    "user": "postgres",     # Имя пользователя для подключения
+    "password": "1234",     # Пароль пользователя
+    "port": 5432            # Порт для подключения к базе
 }
